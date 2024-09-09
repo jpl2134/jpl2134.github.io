@@ -6,8 +6,4 @@
 - MS in Human Nutrition | Columbia University
 - Bachelors in Molecular & Cell Biology - Biochemistry | University of California, Berekley
 
-## Work Experience
-- Application Scientist | Certara
-- Senior Scientific Advisor | Anatomage
-
 ## Projects
