@@ -1,13 +1,13 @@
 # Data Scientist
 
 ## Education
-- MS in Data Science from Johns Hopkins University (2024)
-- Penn State College of Medicine (MD Candidate)
-- MS in Human Nutrition from Columbia University
-- Bachelors in Molecular & Cell Biology - Biochemistry from University of California, Berekley
+- MS in Data Science | Johns Hopkins University (2024)
+- MD Candidate | Penn State College of Medicine
+- MS in Human Nutrition | Columbia University
+- Bachelors in Molecular & Cell Biology - Biochemistry | University of California, Berekley
 
 ## Work Experience
-- Application Scientist at Certara
-- Senior Scientific Advisor at Anatomage
+- Application Scientist | Certara
+- Senior Scientific Advisor | Anatomage
 
 ## Projects
